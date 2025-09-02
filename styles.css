@@ -1,0 +1,12 @@
+.my-title {
+    -fx-font-size: 48px;
+}
+
+.text-box {
+    -fx-font-size: 32px;
+    -fx-padding: 0px 10px;
+}
+
+.resultado {
+    -fx-padding: 10px;
+}
